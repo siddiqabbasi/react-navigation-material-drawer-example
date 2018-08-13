@@ -4,5 +4,4 @@ In my original project, I would like to implement a app navigator with `StackNav
 I would like to further customize the drawer view e.g., have seperate sections for drawer items. Then I realized that I need to fully customize the drawer view. I put a clone of the original implementation here just in case some may need it.
 
 ## Screenshot
-
-![Screenshot 1](./img/ss1.png)  ![Screenshot 2](./img/ss2.png)
+![Screenshot 2](./img/screenshot2.PNG)
